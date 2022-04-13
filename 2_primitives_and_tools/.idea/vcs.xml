@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/2_14_actix/actix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_14_actix/actix-web-1.0/actix-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_14_actix/actix-web-1.0/my-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_14_actix/book" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_14_actix/examples/FrameworkBenchmarks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_14_actix/examples/examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_14_actix/examples/examples/actix-diesel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_14_actix/examples/examples/actix_db" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_14_actix/examples/examples/backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_14_actix/examples/examples/rust-webapp-starter/Rust-webapp-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_14_actix/jelly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_15_databases_and_orms/rust-rdkafka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_15_databases_and_orms/rust-rdkafka/rdkafka-sys/librdkafka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_15_diesel/birdseed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_15_diesel/diesel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_16_kafka/source/rust-rdkafka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_16_kafka/source/rust-rdkafka/rdkafka-sys/librdkafka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_16_kafka/source/rust-rdkafka/rdkafka-sys/librdkafka_master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_17_macro/hello_macro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2_18_fail" vcs="Git" />
+  </component>
+</project>

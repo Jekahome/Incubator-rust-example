@@ -1,0 +1,6 @@
+[package]
+name = "bitmasks"
+version = "0.1.0"
+
+[dependencies]
+bitflags = "1.0"

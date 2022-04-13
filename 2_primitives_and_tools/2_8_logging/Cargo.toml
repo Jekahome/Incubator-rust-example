@@ -1,0 +1,38 @@
+[package]
+name = "logging"
+version = "0.1.0"
+
+[dependencies]
+log = { version = "0.4", features = ["std", "serde"] }
+time = "^0.1.25"
+simple_logger = "0.5.0"
+env_logger = "0.5.13"
+simplelog = "0.5.2"
+pretty_env_logger = "0.2.4"
+stderrlog = "0.4"
+structopt = "0.2"
+
+rustc-serialize = "0.3"
+docopt = "0.6"
+flexi_logger = "^0.9.2"
+chrono = "0.4"
+ansi_term = "0.11"
+
+
+serde = "1.0.70"
+serde_derive = "1.0"
+serde_json = "1.0"
+
+slog = "2.3.3"
+slog-term = "2"
+slog-async = "2"
+slog-json = "2.2.0"
+sloggers = "0.2.8"
+trackable = "0.2"
+clap = "2"
+serdeconv = "0.3"
+slog-stream = "1.2.1"
+slog-scope = "4.0.1"
+slog-stdlog = "3"
+slog-bunyan = "2.1"
+syslog = "3.1.0"

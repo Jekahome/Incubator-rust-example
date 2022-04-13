@@ -1,0 +1,52 @@
+[package]
+name = "tz"
+version = "0.1.0"
+
+[dependencies]
+# futures = "0.1.3"
+futures = "0.1.20"
+
+#tokio = "0.1.11"
+#tokio-io = "0.1.6"
+#bytes = "0.4"
+#tokio-codec = "0.1.1"
+#tokio-core = { git = "https://github.com/tokio-rs/tokio-core" }
+#tokio-tls = { git = "https://github.com/tokio-rs/tokio-tls" }
+
+
+
+handlebars = "1.0.3"
+serde = "1.0.70"
+serde_derive = "1.0"
+serde_json = "1.0"
+log = { version = "0.4", features = ["std", "serde"] }
+env_logger = "0.5.13"
+crossbeam = "0.3.2"
+
+url = "1.7.1"
+
+#hyper = "^0.10"
+hyper = "^0.12"
+hyper-native-tls = "0.3.0"
+hyper-tls = "0.3.1"
+
+tokio =  "0.1.6"
+bytes = "0.4"
+iovec =  "0.1"
+rustls = "0.14"
+webpki = "0.18.1"
+
+tokio-rustls = "0.8.0"
+clap = "2"
+webpki-roots = "0.15"
+tokio-stdin-stdout = "0.1"
+rand = "0.5"
+tokio-timer = "0.2.7"
+tokio-core = "0.1"
+tokio-threadpool = "0.1.9"
+
+native-tls = "0.2"
+tokio-tls = "0.2"
+
+[dependencies.tokio-executor]
+version = "0.1.1"

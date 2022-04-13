@@ -1,0 +1,6 @@
+[package]
+name = "mythread"
+version = "0.1.0"
+authors = ["Eugene Yaroshenko <yaroshjeka@gmail.com>"]
+
+

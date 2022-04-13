@@ -1,0 +1,7 @@
+[package]
+name = "thread_safety"
+version = "0.1.0"
+
+[dependencies]
+crossbeam = "0.4"
+crossbeam-utils = "0.5"

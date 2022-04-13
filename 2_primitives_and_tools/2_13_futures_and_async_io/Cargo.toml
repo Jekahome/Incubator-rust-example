@@ -1,0 +1,28 @@
+[package]
+name = "futures_and_async_io"
+version = "0.1.0"
+
+[dependencies]
+
+futures = "0.1.20"
+hyper = "^0.12"
+#hyper-native-tls = "0.3.0"
+hyper-tls = "0.3.1"
+
+tokio =  "0.1.6"
+tokio-core = "0.1"
+#bytes = "0.4"
+#iovec =  "0.1"
+#rustls = "0.14"
+#webpki = "0.18.1"
+
+#tokio-rustls = "0.8.0"
+clap = "2"
+#webpki-roots = "0.15"
+#tokio-stdin-stdout = "0.1"
+#rand = "0.5"
+#tokio-timer = "0.2.7"
+#tokio-core = "0.1"
+
+#native-tls = "0.2"
+#tokio-tls = "0.2"
